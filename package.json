@@ -1,8 +1,8 @@
 {
-  "name": "discord-bot",
+  "name": "Hinata",
   "version": "0.1.0",
   "private": true,
-  "description": "The official Listen.moe discord bot",
+  "description": "N-Naruto kun!",
   "main": "src/Listen.js",
   "author": {
     "name": "iCrawl",
